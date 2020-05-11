@@ -1,0 +1,147 @@
+#title{
+    border-width : 30;
+    display : inline-block;
+    padding : 20px 290px 25px 240px;
+    margin-right : 50px;
+    margin-left :20px;
+}
+#login{
+    color : gray ;
+    border-width : 30;
+    display : inline-block;
+    padding : 20px 120px 20px 40px;
+    margin-left : 320px;
+    margin-top : 20px;
+
+}
+.logg{
+    float : left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a,li{
+    list-style-type : none;
+    display : inline;
+    margin : 1px 18px 1px 18px;
+    text-decoration : none;
+}
+.home a:link a:visited{ color : black;}
+#web a:link a:visited{color :rgb(051,204,204) ;}
+#mobile a:link a:visited{ color :rgb(255,051,051) ;}
+#banner a:link a:visited{color : rgb(255,153,000);}
+
+a:hover { color: gray; }
+ul{
+
+    padding-top : 1px;
+    margin-left : 160px;
+    font-size : 14px;
+}
+
+#slide{
+    
+    height : 550px;
+}
+#canada{
+    
+    text-align : center;
+    
+}
+#canada_title{
+    font-size : 25px;
+}
+#canada_text{
+    font-size : 20px;
+}
+hr{
+    width : 1000px;
+    text-align : center;
+}
+#canada_next{
+    line-height : 0%;
+}
+.products{
+    margin-left : 245px;
+    margin-top : 50px;
+    margin-bottom : 0px;
+    margin-right : 245px;
+    
+}
+.product{
+    display : inline-block;
+    border-style : solid;
+    border-color : gray;
+    padding : 120px 147px 120px 148px;
+    
+    
+
+}
+#products_imgs{
+    
+    margin-top : 50px;
+}
+.feature{
+    float : left;
+    
+}
+.fee{
+    
+    font-size : 15px;
+    display : block;
+}
+.fname{
+    font-size : 13px;
+    display : block;    
+}
+.frame{
+
+    margin-top : 0px;
+    margin-bottom : 0px;
+    
+}
+
+
+  
+#featureproducts{
+    display : block;
+}
+#fimg{
+
+    display : inline-block;
+}
+.getss{
+    padding-right : 90px;
+    padding-left : 85px;
+    padding-bottom : 80px;
+    padding-top : 80px;
+    
+    
+}
+#plusss{
+    margin-left : 245px;
+    margin-right : 245px;
+}
+#firstt{
+    border-top : 1px gray solid;
+    border-right : 1px gray solid;
+    border-bottom : 1px gray solid;
+    float : left;
+
+}
+#secondd{
+    border-top : 1px gray solid;
+    border-bottom : 1px gray solid;
+    float :left;
+}
+#theirdd{
+    border-top : 1px gray solid;
+    border-bottom : 1px gray solid;
+    border-left : 1px gray solid;
+    float : left;
+}
+#footer{
+    display : inline-block;
+    margin-left:470px;
+    margin-top : 150px;
+    font-size : 10px;
+}
